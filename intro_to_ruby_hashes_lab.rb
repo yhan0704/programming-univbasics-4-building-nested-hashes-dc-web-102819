@@ -7,7 +7,7 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
-  {railroads:{pieces:4, rent_in_dollars:{level1:1,level2:2,level3:3,level4:4},names:{name1:"i",name2:"n",name3:"e",name4:"y"}}}
+  {railroads:{pieces:4, rent_in_dollars:{level1:25,level2:2,level3:3,level4:4},names:{name1:"i",name2:"n",name3:"e",name4:"y"}}}
 end
 
 def monopoly_with_fourth_tier
